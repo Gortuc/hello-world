@@ -1,2 +1,4 @@
 # hello-world
-For Ideas and thoughts
+
+
+They said I had to write something about myself 
